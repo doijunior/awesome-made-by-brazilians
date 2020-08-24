@@ -36,6 +36,14 @@
 |--|--|--|--|
 | [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
  
+#### Artificial Inteligence
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Marvin](https://github.com/marvin-ai) | Plataforma de inteligência artificial desenvolvida pela B2W e aceita na Apache Foundation | [takabayashi](https://github.com/takabayashi) | ![Stars](https://img.shields.io/github/stars/marvin-ai/marvin-public-engines.svg?style=flat-square) |
+ 
+
+
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
